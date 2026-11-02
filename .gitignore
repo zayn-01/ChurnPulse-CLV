@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Data (Optional: uncomment if you don't want to upload the 45MB CSV)
+# online_retail_II.csv
